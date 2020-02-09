@@ -54,11 +54,6 @@
       "src": "./img/esen.png",
       "sizes": "32x32",
       "type": "image/png"
-    },
-    {
-      "src": "./img/esen.png",
-      "sizes": "16x16",
-      "type": "image/png"
     }
   ]
 }

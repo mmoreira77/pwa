@@ -9,9 +9,7 @@ const CACHE_NAME = 'v1_cache_esen',
     'https://use.fontawesome.com/releases/v5.0.6/webfonts/fa-brands-400.woff2',
     './style.css',
     './script.js',
-    './img/esen.png',   
-    './node_modules/jquery/dist/jquery.js',
-    './node_modules/push.js/bin/push.js'
+    './img/esen.png'
   ]
 
 //durante la fase de instalación, generalmente se almacena en caché los activos estáticos
